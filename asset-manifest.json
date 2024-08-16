@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/H-Mart/static/css/main.64a8a2b1.css",
+    "main.js": "/H-Mart/static/js/main.a350fb36.js",
+    "index.html": "/H-Mart/index.html",
+    "main.64a8a2b1.css.map": "/H-Mart/static/css/main.64a8a2b1.css.map",
+    "main.a350fb36.js.map": "/H-Mart/static/js/main.a350fb36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a8a2b1.css",
+    "static/js/main.a350fb36.js"
+  ]
+}
